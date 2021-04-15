@@ -11,13 +11,11 @@ The package contains :
 
 ---
 # How to compile and lauch this application
-There is two ways:
 # Without Docker
 - Create a python3 virtual environement with the help of the ```requirements.txt``` file
 - Run the api using this command : ```python run.py```. (Here we assume your terminal is open in the root folder of this package)
 - The application runs on http://0.0.0.0:8888/
 - As requiered port ```8888``` is exposed and the exposed endpoint for the POST request is ```/productionplan```. It's therefore accecible at : http://0.0.0.0:8888/productionplan
-
 # Deploy with docker
 The root directory of this package contains a ```Dockerfile```. This file is use to build a docker image for our api.
 # Overview of the Dockerfile
