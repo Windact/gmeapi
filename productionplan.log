@@ -110,3 +110,35 @@
 2021-04-15 03:57:00,438 — api.productionplan — INFO —post:81 — sorter : Ok
 2021-04-15 03:57:00,438 — api.productionplan — INFO —post:92 — to_send : Ok
 2021-04-15 03:57:00,439 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 46.0}, {'name': 'gasfiredbig2', 'p': 45.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 05:27:20,689 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 05:27:20,689 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 05:27:20,690 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 05:27:20,690 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 05:27:20,690 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 05:27:20,691 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 05:27:20,691 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 05:27:20,691 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 05:27:45,837 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 05:27:45,837 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 05:27:45,838 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 05:27:45,838 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 05:27:45,838 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 05:27:45,839 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 05:27:45,839 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 05:27:45,839 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 05:27:54,397 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 05:27:54,397 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 05:27:54,397 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 05:27:54,398 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 05:27:54,398 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 05:27:54,398 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 05:27:54,398 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 05:27:54,400 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 38.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 05:27:59,267 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 05:27:59,267 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 05:27:59,268 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 05:27:59,268 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 05:27:59,268 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 05:27:59,269 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 05:27:59,269 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 05:27:59,269 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 46.0}, {'name': 'gasfiredbig2', 'p': 45.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
