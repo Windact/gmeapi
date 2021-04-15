@@ -15,8 +15,8 @@ There is two ways:
 # Without Docker
 - Create a python3 virtual environement with the help of the 'requirements.txt' file
 - Run the api using this command : 'python run.py'. (Here we assume your terminal is open in the root folder of this package)
-- The application runs on 'http://0.0.0.0:8888/'
-- As requiered port 8888 is exposed and the exposed endpoint for the POST request is '/productionplan'. It's therefore accecible at : ' http://0.0.0.0:8888/productionplan'
+- The application runs on http://0.0.0.0:8888/
+- As requiered port 8888 is exposed and the exposed endpoint for the POST request is '/productionplan'. It's therefore accecible at : http://0.0.0.0:8888/productionplan
 
 # Deploy with docker
 The root directory of this package contains a Dockerfile. This file is use to build a docker image for our api.
@@ -33,11 +33,11 @@ The root directory of this package contains a Dockerfile. This file is use to bu
 # Example:
 - Build docker image with your Dockerfile in your current directory : 'docker build -t gmeapi:latest .'
 - run your docker container with the out side port as 5005. ( The inside port must stay as the one given in the dockerfile): 'docker run -p 5005:8888 gmeapi'
-- Send your POST request to the api to : 'http://0.0.0.0:5005/productionplan'
+- Send your POST request to the api to : http://0.0.0.0:5005/productionplan
 
 # Usefull docker commands:
 - List all running container : 'docker ps'
 - List all containers : 'docker ps -a'
 - List all docker images : 'docker images'
 
-Check 'https://docs.docker.com/' for more information about docker and docker commands.
+Check https://docs.docker.com/ for more information about docker and docker commands.
