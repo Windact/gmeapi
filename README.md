@@ -4,7 +4,7 @@ For more details, refer to https://github.com/gem-spaas/powerplant-coding-challe
 ---
 # About the packages files and folders
 The package contains :
-- an '''api'''  folder where you can find a productionplan.py that contains the class that process the post request, logs info and errors; an 'utils.py' file where the algorithm that find the adequate powerplant combination is located and a logs folder where 'productionplan.log' contains info logs and error logs and 'productionplanRuntimeError.log' contains RunTimeError logs.
+- an ```api```  folder where you can find a productionplan.py that contains the class that process the post request, logs info and errors; an 'utils.py' file where the algorithm that find the adequate powerplant combination is located and a logs folder where 'productionplan.log' contains info logs and error logs and 'productionplanRuntimeError.log' contains RunTimeError logs.
 - This 'README.md' file
 - A 'Dockerfile'
 - A 'requirements.txt' file that contains all the dependancies for this api to run in a python3 environement
