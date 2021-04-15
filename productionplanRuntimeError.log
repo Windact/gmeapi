@@ -1,0 +1,1 @@
+2021-04-15 02:27:44,676 — api.productionplan_rte — ERROR —post:95 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]

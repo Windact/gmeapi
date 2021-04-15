@@ -1,0 +1,112 @@
+2021-04-14 23:16:51,158INFO:api.productionplan:The data provided is not a json file. The post request has been abort
+2021-04-14 23:19:26,107 — api.productionplan — INFO —post:22 — The data provided is not a json file. The post request has been abort
+2021-04-15 01:31:23,877 — api.productionplan — ERROR —post:21 — The data provided is not a json file. The post request has been abort
+2021-04-15 01:33:54,109 — api.productionplan — ERROR —post:21 — The data provided is not a json file. The post request has been abort
+2021-04-15 01:34:02,589 — api.productionplan — INFO —post:49 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 01:35:06,775 — api.productionplan — ERROR —check_payload:28 — 'load' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:36:15,000 — api.productionplan — ERROR —check_payload:30 — 'load' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:36:43,853 — api.productionplan — ERROR —check_payload:30 — 'load' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:36:51,128 — api.productionplan — ERROR —check_payload:30 — 'fuels' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:37:13,865 — api.productionplan — ERROR —check_payload:30 — 'gas(euro/MWh)' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:37:21,582 — api.productionplan — ERROR —check_payload:30 — 'kerosine(euro/MWh)' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:37:30,187 — api.productionplan — ERROR —check_payload:30 — 'co2(euro/ton)' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:37:41,427 — api.productionplan — ERROR —check_payload:30 — 'wind(%)' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:38:01,670 — api.productionplan — ERROR —check_payload:30 — 'powerplants' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:41:27,918 — api.productionplan — INFO —post:39 — check_payload : Ok
+2021-04-15 01:44:03,763 — api.productionplan — INFO —post:39 — check_payload : Ok
+2021-04-15 01:54:32,191 — api.productionplan — ERROR —check_payload:43 — 'name' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:54:47,013 — api.productionplan — ERROR —check_payload:43 — 'name' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:55:03,589 — api.productionplan — INFO —post:39 — check_payload : Ok
+2021-04-15 01:55:03,590 — api.productionplan — INFO —post:51 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 01:55:09,876 — api.productionplan — ERROR —check_payload:43 — 'name' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:55:20,595 — api.productionplan — ERROR —check_payload:43 — 'name' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:55:27,632 — api.productionplan — ERROR —check_payload:43 — 'type' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:55:38,694 — api.productionplan — ERROR —check_payload:43 — 'efficiency' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:55:48,677 — api.productionplan — ERROR —check_payload:43 — 'pmin' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:55:57,354 — api.productionplan — ERROR —check_payload:43 — 'pmax' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:56:17,227 — api.productionplan — ERROR —check_payload:39 — 'gasfirede' is not one of the powerplants type accepted. The request has been abort.
+2021-04-15 01:56:44,053 — api.productionplan — ERROR —check_payload:39 — 'turbojetoo' is not one of the powerplants type accepted. The request has been abort.
+2021-04-15 01:56:51,251 — api.productionplan — ERROR —check_payload:39 — 'windturbidfsdfne' is not one of the powerplants type accepted. The request has been abort.
+2021-04-15 01:57:30,675 — api.productionplan — ERROR —check_payload:43 — 'powerplants' was not one of the keys in the json file provided. The request has been abort.
+2021-04-15 01:57:41,036 — api.productionplan — INFO —post:39 — check_payload : Ok
+2021-04-15 01:57:41,037 — api.productionplan — INFO —post:51 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 02:25:02,027 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 02:25:02,027 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 02:25:02,028 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 02:25:02,028 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 02:25:02,028 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 02:25:02,029 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 02:25:02,029 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 02:25:02,029 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 02:25:33,862 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 02:25:33,863 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 02:25:33,863 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 02:25:33,863 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 02:25:33,863 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 02:25:33,864 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 02:25:33,864 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 02:25:33,864 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 02:27:44,673 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 02:27:44,673 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 02:27:44,673 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 02:27:44,674 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 02:27:44,674 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 02:27:44,675 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 02:27:44,675 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 02:27:44,675 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 02:31:04,929 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 02:31:04,929 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 02:31:04,930 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 02:31:04,930 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 02:31:04,930 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 02:31:04,932 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 02:31:04,932 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 02:31:04,932 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 02:31:12,310 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 02:31:12,310 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 02:31:12,310 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 02:31:12,311 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 02:31:12,311 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 02:31:12,311 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 02:31:12,312 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 02:31:12,312 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 38.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 02:31:21,039 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 02:31:21,039 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 02:31:21,040 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 02:31:21,040 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 02:31:21,040 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 02:31:21,041 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 02:31:21,041 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 02:31:21,041 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 46.0}, {'name': 'gasfiredbig2', 'p': 45.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 03:56:31,720 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 03:56:31,721 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 03:56:31,721 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 03:56:31,721 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 03:56:31,722 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 03:56:31,722 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 03:56:31,722 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 03:56:31,723 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 03:56:37,879 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 03:56:37,880 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 03:56:37,880 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 03:56:37,880 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 03:56:37,881 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 03:56:37,881 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 03:56:37,881 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 03:56:37,882 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 29.0}, {'name': 'windpark1', 'p': 9.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 03:56:45,435 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 03:56:45,436 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 03:56:45,436 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 03:56:45,436 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 03:56:45,437 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 03:56:45,437 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 03:56:45,437 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 03:56:45,437 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 10.0}, {'name': 'gasfiredbig2', 'p': 38.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
+2021-04-15 03:57:00,435 — api.productionplan — INFO —post:29 — json_data : Ok
+2021-04-15 03:57:00,435 — api.productionplan — INFO —post:40 — MwH : Ok
+2021-04-15 03:57:00,437 — api.productionplan — INFO —post:50 — check_payload : Ok
+2021-04-15 03:57:00,438 — api.productionplan — INFO —post:61 — new_load : Ok
+2021-04-15 03:57:00,438 — api.productionplan — INFO —post:71 — subset_sum : Ok
+2021-04-15 03:57:00,438 — api.productionplan — INFO —post:81 — sorter : Ok
+2021-04-15 03:57:00,438 — api.productionplan — INFO —post:92 — to_send : Ok
+2021-04-15 03:57:00,439 — api.productionplan — INFO —post:94 — Everything went smoothly. The output was : [{'name': 'gasfiredbig1', 'p': 46.0}, {'name': 'gasfiredbig2', 'p': 45.0}, {'name': 'gasfiredsomewhatsmaller', 'p': 0}, {'name': 'tj1', 'p': 0}, {'name': 'windpark1', 'p': 0}, {'name': 'windpark2', 'p': 0}]
